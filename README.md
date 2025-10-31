@@ -1,2 +1,14 @@
 # GoDot-Script-UDL-for-Notepad-
 I make UDL file of Godot scripts to use notepad++ as external tool it's same as Godot inbuilt.
+
+Install steps: 
+1: Download just uld(xml file only)
+2: After download file Open Notepad ++ go to below steps
+    Language(Above Menu) >> User Define Lanuages >> Define Your Language  
+3: It will open a window in this impart download file as you import you get message sucessfull
+4: restart notpad++ 
+     Language(Above Menu) >> You can find Name "GDScript_Godot4_CustomColors"
+
+***Note***
+it's only work for GDscripts files.
+
